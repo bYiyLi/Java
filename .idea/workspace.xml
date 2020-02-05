@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112eb3ff-1aa9-4161-83f7-71e25c3e2a9f" name="Default Changelist" comment="" />
+    <list default="true" id="112eb3ff-1aa9-4161-83f7-71e25c3e2a9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.java" beforeDir="false" />
+    </list>
     <list id="81a82b75-7dbf-4d70-af1c-fffb7a2e9feb" name="Revert &quot;.01&quot;" comment="Revert &quot;.01&quot;&#10;&#10;This reverts commit af96bc2c">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -13,6 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XNT9uKUiHcOJGx9DiE9ert0sdP" />
@@ -43,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580885404514</updated>
-      <workItem from="1580885405672" duration="664000" />
+      <workItem from="1580885405672" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary=".01">
       <created>1580885815368</created>
@@ -52,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580885815368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".01">
+      <created>1580886288280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580886288280</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
